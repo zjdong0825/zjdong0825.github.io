@@ -6,7 +6,7 @@ subtitle: ECE @ UIUC
 
 profile:
   align: right
-  image: prof_pic.jpg
+  image: IMG_1628.jpg
   address: >
     <p>Beckman Institute for Advanced Science and Technology</p>
     <p>Urbana, IL</p>
