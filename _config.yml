@@ -9,7 +9,7 @@ middle_name:
 last_name: Dong
 email:  zhijied3 AT illinois DOT edu
 description: > # the ">" symbol means to ignore newlines until "footer_text:"
-  Ph.D. Candidate @ ECE UIUC
+  Ph.D. @ ECE UIUC
 footer_text: >
   
 keywords: Medical Imaging  # add your own keywords or leave empty
