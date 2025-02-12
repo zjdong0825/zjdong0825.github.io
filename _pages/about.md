@@ -25,3 +25,5 @@ latest_posts:
   limit: 3 # leave blank to include all the blog posts
 ---
 I am a Senior Systems Engineer at [iota Biosciences](https://iota.bio), where I develop and integrate advanced signal/image processing and machine learning solutions for next-generation biomedical devices. I finished my Ph.D. in the department of [Electrical and Computer Engineering](https://ece.illinois.edu) at the [University of Illinois Urbana-Champaign](https://illinois.edu). Previsouly, I obtained my B.E. degree in 2017 from the [Southeast University](https://www.seu.edu.cn/english/) and my M.S. degree in 2018 from the [University of Michigan, Ann Arbor](https://umich.edu).
+
+I’m deeply passionate about signal and image processing, deep learning, and system integration. This passion drives my work to bridge the gap between innovative research and practical, impactful applications. Furthermore, I love developing innovative algorithm that transform raw data into actionable insights and build end-to-end system around that. This pursuit fuels my dedication to pushing the boundaries of technology and creating innovative solutions for real-world challenges. 
